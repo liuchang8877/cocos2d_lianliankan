@@ -166,6 +166,7 @@
 		18C19F7215F07D020067F98D /* bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 18C19F6C15F07D010067F98D /* bg.png */; };
 		18C19F7315F07D020067F98D /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 18C19F6D15F07D010067F98D /* play.png */; };
 		18C19F7515F086E40067F98D /* progress.png in Resources */ = {isa = PBXBuildFile; fileRef = 18C19F7415F086E30067F98D /* progress.png */; };
+		5879BA23183A0FF900B4AAD1 /* choiceCheckpointLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 5879BA22183A0FF900B4AAD1 /* choiceCheckpointLayer.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -464,6 +465,8 @@
 		18C19F6C15F07D010067F98D /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bg.png; path = Resources/bg.png; sourceTree = "<group>"; };
 		18C19F6D15F07D010067F98D /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = play.png; path = Resources/play.png; sourceTree = "<group>"; };
 		18C19F7415F086E30067F98D /* progress.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = progress.png; path = Resources/progress.png; sourceTree = "<group>"; };
+		5879BA21183A0FF900B4AAD1 /* choiceCheckpointLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = choiceCheckpointLayer.h; sourceTree = "<group>"; };
+		5879BA22183A0FF900B4AAD1 /* choiceCheckpointLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = choiceCheckpointLayer.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -524,6 +527,8 @@
 			children = (
 				18C19F1915EF3C350067F98D /* AppDelegate.h */,
 				18C19F1A15EF3C350067F98D /* AppDelegate.m */,
+				5879BA21183A0FF900B4AAD1 /* choiceCheckpointLayer.h */,
+				5879BA22183A0FF900B4AAD1 /* choiceCheckpointLayer.m */,
 				18C19F1C15EF3C350067F98D /* HelloWorldLayer.h */,
 				18C19F1D15EF3C350067F98D /* HelloWorldLayer.m */,
 				18C19F1F15EF3C350067F98D /* IntroLayer.h */,
@@ -1080,6 +1085,7 @@
 				18C19E3B15EF3C330067F98D /* CCRenderTexture.m in Sources */,
 				18C19E3E15EF3C330067F98D /* CCScene.m in Sources */,
 				18C19E4115EF3C330067F98D /* CCScheduler.m in Sources */,
+				5879BA23183A0FF900B4AAD1 /* choiceCheckpointLayer.m in Sources */,
 				18C19E5115EF3C340067F98D /* CCShaderCache.m in Sources */,
 				18C19E5415EF3C340067F98D /* ccShaders.m in Sources */,
 				18C19E5715EF3C340067F98D /* CCSprite.m in Sources */,
