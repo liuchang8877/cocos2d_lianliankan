@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BC7CD769-FF03-4684-9869-18B27B3DBF22</string>
+	<key>IDESourceControlProjectName</key>
+	<string>demoCocos01</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>57D9ECEC-32CA-4CC3-ADDE-5BB56DA21637</key>
+		<string>https://github.com/liuchang8877/cocos2d_lianliankan.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>demoCocos01.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>57D9ECEC-32CA-4CC3-ADDE-5BB56DA21637</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/liuchang8877/cocos2d_lianliankan.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>57D9ECEC-32CA-4CC3-ADDE-5BB56DA21637</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>57D9ECEC-32CA-4CC3-ADDE-5BB56DA21637</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cocos2d_lianliankan</string>
+		</dict>
+	</array>
+</dict>
+</plist>
